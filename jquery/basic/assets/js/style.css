@@ -1,0 +1,29 @@
+body{
+    background-color: #694242d9;
+}
+.container{
+    width: 75%;
+    margin: 0 auto;
+}
+.details , .chnge{
+    background-color: antiquewhite;
+    padding: 60px;
+    border-radius: 16px;
+    margin-bottom: 10px;
+}
+.chnge{
+    background-color: lightpink;
+}
+.mt-2{
+    margin-top: 20px;
+}
+.center{
+    text-align: center;
+    margin-bottom: 30px;
+}
+button{
+    padding: 6px 26px;
+    border-radius: 16px;
+    background-color:#a4f872cf;
+    border: 1px solid grey;
+}
